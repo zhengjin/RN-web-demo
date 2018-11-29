@@ -1,4 +1,4 @@
-package com.rnwebdemo;
+package com.rn_web_demo;
 
 import android.app.Application;
 

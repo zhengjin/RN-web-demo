@@ -1,4 +1,4 @@
-package com.rnwebdemo;
+package com.rn_web_demo;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "RNWebDemo";
+        return "rn_web_demo";
     }
 }
